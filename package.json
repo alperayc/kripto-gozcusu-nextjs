@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@stomp/stompjs": "^7.1.1",
+    "@types/file-saver": "^2.0.7",
+    "@types/sockjs-client": "^1.5.4",
     "chart.js": "^4.5.0",
     "chartjs-plugin-zoom": "^2.2.0",
     "file-saver": "^2.0.5",
